@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.79babc8a.css",
+    "main.js": "/static/js/main.47573e88.js",
+    "static/media/white-thumb-down.svg": "/static/media/white-thumb-down.f525112cc7311f9a295b70e152a56b54.svg",
+    "static/media/blue-thumb-down.svg": "/static/media/blue-thumb-down.7432694156bf58522bc3645607fc7057.svg",
+    "static/media/white-thumb-up.svg": "/static/media/white-thumb-up.d8d6cdc6a87356a21db6ef97024b9f8a.svg",
+    "static/media/blue-thumb-up.svg": "/static/media/blue-thumb-up.c3b7b0e629a59afa25876b3ed9b2966a.svg",
+    "static/media/solid-down.svg": "/static/media/solid-down.a29f52fa21cfa1d8d379ff5a736ebde7.svg",
+    "static/media/solid-right.svg": "/static/media/solid-right.8e3f7c01f5cf9284c722cf3e701493bd.svg",
+    "static/media/search-image.svg": "/static/media/search-image.a3c945f6e80964379df7da80887f1ebd.svg",
+    "static/media/sort-arrow-up-active.svg": "/static/media/sort-arrow-up-active.5e356b57ed1c3b3569c768d395b7beb1.svg",
+    "static/media/facet_icon.svg": "/static/media/facet_icon.f9cd447d5a31def32878a15ebf9c4368.svg",
+    "static/media/sort-arrow-down-default.svg": "/static/media/sort-arrow-down-default.06bdf75ee40ea9ba3ab90ec615c0e46f.svg",
+    "static/media/sort-arrow-down-active.svg": "/static/media/sort-arrow-down-active.423733263e15692bfeacac9321ebf449.svg",
+    "static/media/double-left-blue.svg": "/static/media/double-left-blue.f86744d6541bb0d8863effde2a0f7102.svg",
+    "static/media/double-right-blue.svg": "/static/media/double-right-blue.3e6a95428e268e7739a5f8acb0d35e13.svg",
+    "static/media/single-left-blue.svg": "/static/media/single-left-blue.e679ad9bf8be6f82adf0203558c6d919.svg",
+    "static/media/single-right-blue.svg": "/static/media/single-right-blue.8c7ec40cbadfe9ad515af3f6f1829230.svg",
+    "index.html": "/index.html",
+    "main.79babc8a.css.map": "/static/css/main.79babc8a.css.map",
+    "main.47573e88.js.map": "/static/js/main.47573e88.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.79babc8a.css",
+    "static/js/main.47573e88.js"
+  ]
+}
